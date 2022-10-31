@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/TSP.hpp
+vector
+-
+numeric
+-
+ostream
+-
+tsp_setup.hpp
+../include/tsp_setup.hpp
+
+../include/tsp_setup.hpp
+limits
+-
+vector
+-
+
+G:/Studia/Semestr 3/ZPO/Komiwojazer/main.cpp
+TSP.hpp
+G:/Studia/Semestr 3/ZPO/Komiwojazer/TSP.hpp
+iostream
+-
+
+G:/Studia/Semestr 3/ZPO/Komiwojazer/src/TSP.cpp
+TSP.hpp
+G:/Studia/Semestr 3/ZPO/Komiwojazer/src/TSP.hpp
+algorithm
+-
+stack
+-
+optional
+-
+
+G:/Studia/Semestr 3/ZPO/Komiwojazer/src/tsp_setup.cpp
+tsp_setup.hpp
+G:/Studia/Semestr 3/ZPO/Komiwojazer/src/tsp_setup.hpp
+

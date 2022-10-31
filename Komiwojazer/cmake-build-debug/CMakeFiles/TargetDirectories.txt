@@ -1,0 +1,3 @@
+G:/Studia/Semestr 3/ZPO/Komiwojazer/cmake-build-debug/CMakeFiles/edit_cache.dir
+G:/Studia/Semestr 3/ZPO/Komiwojazer/cmake-build-debug/CMakeFiles/tsp.dir
+G:/Studia/Semestr 3/ZPO/Komiwojazer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
